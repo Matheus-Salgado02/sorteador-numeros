@@ -26,7 +26,7 @@ function sortear()
     Quantidade=parseInt(document.getElementById("quantidade").value);
     numeroInicial=parseInt(document.getElementById("de").value);
     numeroFinal=parseInt(document.getElementById("ate").value);
-    Aleatorio() 
+    Aleatorio();
 }
 
 function reiniciar()
